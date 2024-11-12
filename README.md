@@ -6,15 +6,8 @@
 
 - [Einleitung](#einleitung)
 - [Zweck der Nomenklatur](#zweck-der-nomenklatur)
-- [Grundlagen der chemischen Nomenklatur](#grundlagen-der-chemischen-nomenklatur)
-  - [Elemente](#elemente)
-  - [Einatomige Ionen](#einatomige-ionen)
-  - [Mehratomige Ionen](#mehratomige-ionen)
-  - [Anorganische Verbindungen](#anorganische-verbindungen)
-  - [Organische Verbindungen](#organische-verbindungen)
-- [Zusätzliche Hinweise](#zusätzliche-hinweise)
-- [Beispiele](#beispiele)
-- [Kontakt und weitere Informationen](#kontakt-und-weitere-informationen)
+- [Schritte der Benennung](#schritte-der-benennung)
+
 
 ## Einleitung
 
