@@ -7,7 +7,9 @@
 - [Einleitung](#einleitung)
 - [Zweck der Nomenklatur](#zweck-der-nomenklatur)
 - [Schritte der Benennung](#schritte-der-benennung)
-
+- [Regeln](#regeln)
+- [Zusammenfassung](#zusammenfassung)
+- [Beispiele](#beispiele)
 
 ## Einleitung
 
@@ -62,4 +64,19 @@ Eine standardisierte chemische Nomenklatur:
    - Funktionelle Gruppen haben oft Priorität bei der Nummerierung und Namensgebung. Die Rangfolge der Priorität richtet sich nach den IUPAC-Regeln: Höher priorisierte Gruppen erhalten die niedrigsten Positionsnummern und beeinflussen das Suffix der Verbindung.
    - Zum Beispiel wird die „-ol“-Endung für Alkohole oder die „-säure“-Endung für Carbonsäuren in den Hauptnamen aufgenommen, während weniger priorisierte Gruppen als Präfix erscheinen.
 
-**Zusammenfassung:** Die Regeln und Schritte helfen, systematisch und konsistent chemische Verbindungen zu benennen. Halte die niedrigsten Zahlenwerte für wichtige Positionen ein und orientiere dich an der IUPAC-Rangfolge bei Mehrfachbindungen und funktionellen Gruppen.
+## Zusammenfassung
+
+Die Benennung einer organischen Verbindung erfordert die Bestimmung der Hauptkette, die Nummerierung der Atome, die Identifikation der Seitenketten und funktionellen Gruppen und schließlich das Zusammenfügen aller Elemente zu einem vollständigen Namen. Eine konsistente Anwendung dieser Schritte und Regeln führt zu einem eindeutigen und präzisen Namen, der die Struktur der Verbindung widerspiegelt.
+
+## Beispiele
+
+Hier sind einige vollständige Beispiele zur Verdeutlichung:
+
+- **C₆H₁₄:** Hexan (einfache gesättigte Kette mit sechs Kohlenstoffatomen, keine Seitenketten oder Mehrfachbindungen)
+- **CH₃-CH₂-CH(CH₃)-CH₃:** 2-Methylbutan (Butan-Hauptkette mit einer Methyl-Seitenkette an Position 2)
+- **CH₃-CH=CH-CH₃:** 2-Buten (Butan-Hauptkette mit einer Doppelbindung zwischen C-2 und C-3)
+- **CH₃-CH₂-CH=CH-CH₃:** Pent-2-en (Pentan-Hauptkette mit einer Doppelbindung zwischen C-2 und C-3)
+- **C₂H₅-OH:** Ethanol (Alkohol mit zwei Kohlenstoffatomen, „-ol“-Endung zeigt die OH-Gruppe an)
+- **CH₃-COOH:** Essigsäure (Ethan-Hauptkette mit einer Carboxylgruppe, „-säure“-Endung zeigt die Säurefunktion an)
+
+Diese Beispiele verdeutlichen die Anwendung der Nomenklaturregeln und helfen, die Schritte und Regeln in der Praxis besser zu verstehen.
