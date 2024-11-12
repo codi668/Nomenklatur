@@ -28,4 +28,12 @@ Eine standardisierte chemische Nomenklatur:
 - vermeidet Verwechslungen und Missverständnisse und
 - unterstützt die korrekte Darstellung von chemischen Reaktionen und Formeln.
 
-## Grundlagen der chemischen Nomenklatur
+## Schritte der Bennenung
+- längste Kette finden
+- Durchnummerien
+- Bestimmen der Seitenketten
+- zusammenfassen
+
+## Regeln
+- bei der Nummerirung bei jemem beginnen welches am nächten zu einer seitekette ist oder welches ein zweifach oder dreifach bindung hat.
+- 
